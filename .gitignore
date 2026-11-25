@@ -1,0 +1,54 @@
+# Midias e artefatos gerados (≈16 GB) — NAO versionar
+*.mp4
+*.mp3
+*.m4a
+*.wav
+*.ogg
+*.flac
+*.opus
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.webm
+*.zip
+
+# Pastas de trabalho
+projetos/
+banco_musicas/ninar*/
+banco_musicas/novas_prontas/
+banco_musicas/ep02*/
+banco_musicas/ep03*/
+banco_musicas/classicas*/
+banco_musicas/compositores/
+banco_musicas/audios_reprovados/
+banco_musicas/youtube_audio_library/
+banco_musicas/wikimedia*/
+banco_musicas/originais/
+banco_musicas/prontas/
+banco_musicas/biblioteca_audio_youtube.json
+_tmp_video_frames/
+_tmp_subscribe/
+auditoria_*.jpg
+_com_subscribe.mp4
+*.auditoria.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Grafo: manter graph.json/GRAPH_REPORT.md, ignorar cache interno
+graphify-out/cache/
+graphify-out/memory/
+graphify-out/reflections/
+graphify-out/.graphify_*.json
+graphify-out/.graphify_root
+graphify-out/manifest.json
+graphify-out/.rebuild.lock
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

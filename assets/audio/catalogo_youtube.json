@@ -1,0 +1,221 @@
+[
+ {
+  "arquivo": "assets/audio/youtube_sfx/Unloading_Gun_Magazine_Singles.mp3",
+  "titulo": "Unloading Gun Magazine Singles",
+  "categoria": "sfx",
+  "duracao_segundos": 5.6,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Sliding_Window_Latching.mp3",
+  "titulo": "Sliding Window Latching",
+  "categoria": "sfx",
+  "duracao_segundos": 12.0,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Wall_Light_Switch_Far.mp3",
+  "titulo": "Wall Light Switch Far",
+  "categoria": "sfx",
+  "duracao_segundos": 9.0,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Wall_Light_Switch_Close.mp3",
+  "titulo": "Wall Light Switch Close",
+  "categoria": "sfx",
+  "duracao_segundos": 16.2,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Wall_Light_Switch_Medium.mp3",
+  "titulo": "Wall Light Switch Medium",
+  "categoria": "sfx",
+  "duracao_segundos": 22.3,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Winding_Alarm_Clock.mp3",
+  "titulo": "Winding Alarm Clock",
+  "categoria": "sfx",
+  "duracao_segundos": 0.9,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Wooden_Bat_Tapping_Home_Plate.mp3",
+  "titulo": "Wooden Bat Tapping Home Plate",
+  "categoria": "sfx",
+  "duracao_segundos": 2.4,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Xylophone_Tip_Toe_Scale_Up.mp3",
+  "titulo": "Xylophone Tip Toe Scale Up",
+  "categoria": "sfx",
+  "duracao_segundos": 20.8,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Crazy_Dinner_Bell.mp3",
+  "titulo": "Crazy Dinner Bell",
+  "categoria": "sfx",
+  "duracao_segundos": 11.4,
+  "tags": [
+   "sfx",
+   "bell"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Button_Push.mp3",
+  "titulo": "Button Push",
+  "categoria": "sfx",
+  "duracao_segundos": 26.5,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Wineglass_On_Granite_Soft.mp3",
+  "titulo": "Wineglass On Granite Soft",
+  "categoria": "sfx",
+  "duracao_segundos": 10.8,
+  "tags": [
+   "sfx",
+   "soft"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Wineglass_On_Wood_Soft.mp3",
+  "titulo": "Wineglass On Wood Soft",
+  "categoria": "sfx",
+  "duracao_segundos": 5.0,
+  "tags": [
+   "sfx",
+   "soft"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Sneaker_Toe_Slides_Solid_Wood.mp3",
+  "titulo": "Sneaker Toe Slides Solid Wood",
+  "categoria": "sfx",
+  "duracao_segundos": 19.6,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Soft_Walk_On_Wood_And_Tile.mp3",
+  "titulo": "Soft Walk On Wood And Tile",
+  "categoria": "sfx",
+  "duracao_segundos": 28.8,
+  "tags": [
+   "sfx",
+   "soft"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_sfx/Swoosh.mp3",
+  "titulo": "Swoosh",
+  "categoria": "sfx",
+  "duracao_segundos": 1.5,
+  "tags": [
+   "sfx"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_music/Laniakea.mp3",
+  "titulo": "Laniakea",
+  "categoria": "musica",
+  "duracao_segundos": 240.0,
+  "tags": [
+   "ninar",
+   "suave",
+   "instrumental",
+   "ambient"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_music/Akatsuki_Rising.mp3",
+  "titulo": "Akatsuki Rising",
+  "categoria": "musica",
+  "duracao_segundos": 129.0,
+  "tags": [
+   "ninar",
+   "suave",
+   "instrumental",
+   "ambient"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_music/Event_Horizon.mp3",
+  "titulo": "Event Horizon",
+  "categoria": "musica",
+  "duracao_segundos": 240.0,
+  "tags": [
+   "ninar",
+   "suave",
+   "instrumental",
+   "ambient"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_music/Rain_Over_Kyoto_Station.mp3",
+  "titulo": "Rain Over Kyoto Station",
+  "categoria": "musica",
+  "duracao_segundos": 164.5,
+  "tags": [
+   "ninar",
+   "suave",
+   "instrumental",
+   "ambient"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ },
+ {
+  "arquivo": "assets/audio/youtube_music/Pulsar.mp3",
+  "titulo": "Pulsar",
+  "categoria": "musica",
+  "duracao_segundos": 248.1,
+  "tags": [
+   "ninar",
+   "suave",
+   "instrumental",
+   "ambient"
+  ],
+  "licenca": "YouTube Audio Library - Sem atribuição"
+ }
+]

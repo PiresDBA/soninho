@@ -1,0 +1,72 @@
+# Licenças — YouTube Audio Library (canal Soninho)
+
+Faixas obtidas pela Biblioteca de Áudio do YouTube Studio, conta conectada.
+Licença: `CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE` (copyright-safe no YouTube).
+Se alguma faixa aparecer como Creative Commons no Studio, copie o crédito
+para a descrição do vídeo antes de publicar.
+
+- **Aomori Wings** — The Mini Vandals (122s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_aomori-wings-the-mini-vandals.m4a`
+- **Glass Chinchilla** — The Mini Vandals (100s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_glass-chinchilla-the-mini-vandals.m4a`
+- **Laniakea** — The Grey Room / Density & Time (240s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_laniakea-the-grey-room-density-time.m4a`
+- **Moonlight Magic** — Asher Fulero (157s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_moonlight-magic-asher-fulero.m4a`
+- **Exploring The Crystal Caves** — Asher Fulero (122s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_exploring-the-crystal-caves-asher-fulero.m4a`
+- **Last Sunrise** — Adam MacDougall (207s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_last-sunrise-adam-macdougall.m4a`
+- **Akatsuki Rising** — The Mini Vandals (129s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_akatsuki-rising-the-mini-vandals.m4a`
+- **Event Horizon** — The Grey Room / Density & Time (240s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_event-horizon-the-grey-room-density-time.m4a`
+- **Pulsar** — The Grey Room / Density & Time (248s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_pulsar-the-grey-room-density-time.m4a`
+- **High Class** — Benjamin Andrews (296s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_high-class-benjamin-andrews.m4a`
+- **The Swan** — The Soundlings (166s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_the-swan-the-soundlings.m4a`
+- **Singularity** — The Grey Room / Density & Time (314s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_singularity-the-grey-room-density-time.m4a`
+- **Mas Cafe** — Casa Rosa (175s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_mas-cafe-casa-rosa.m4a`
+- **Raag Charukeshi - Aalap (Sitar)** — Sandeep Das,  Amrendra Mishra (163s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_raag-charukeshi-aalap-sitar-sandeep-das-amrendra-mishra.m4a`
+- **Rain Over Kyoto Station** — The Mini Vandals (164s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_rain-over-kyoto-station-the-mini-vandals.m4a`
+- **Snowfall** — Asher Fulero (209s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_snowfall-asher-fulero.m4a`
+- **The Palace Gardens** — Asher Fulero (121s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_the-palace-gardens-asher-fulero.m4a`
+- **Oracion** — House of the Gipsies (192s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_oracion-house-of-the-gipsies.m4a`
+- **Guera Encantadora** — Casa Rosa (180s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_guera-encantadora-casa-rosa.m4a`
+- **Sleep Music No. 1** — Chris Haugen (194s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_sleep-music-no-1-chris-haugen.m4a`
+- **Jomon Grove** — The Mini Vandals (187s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_jomon-grove-the-mini-vandals.m4a`
+- **Otros Hijos** — Casa Rosa (123s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_otros-hijos-casa-rosa.m4a`
+- **Ricky Tar** — Casa Rosa's Tulum Vibes (106s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_ricky-tar-casa-rosa-s-tulum-vibes.m4a`
+- **Tiburtina** — Schwartzy (180s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_tiburtina-schwartzy.m4a`
+- **Somnia Variation 1 relax and sleep** — Reed Mathis (170s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-1-relax-and-sleep-reed-mathis.m4a`
+- **Somnia Variation 2 relax and sleep** — Reed Mathis (149s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-2-relax-and-sleep-reed-mathis.m4a`
+- **Raag Charukeshi - Madhyalaya Teentaal (Sitar, Tabla)** — Sandeep Das,  Amrendra Mishra (159s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_raag-charukeshi-madhyalaya-teentaal-sitar-tabla-sandeep-das-amrendra-m.m4a`
+- **Somnia Variation 10 relax and sleep** — Reed Mathis (194s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-10-relax-and-sleep-reed-mathis.m4a`
+- **Somnia Variation 3 relax and sleep** — Reed Mathis (152s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-3-relax-and-sleep-reed-mathis.m4a`
+- **Pienso Viento** — Casa Rosa (157s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_pienso-viento-casa-rosa.m4a`
+- **Somnia Variation 6 relax and sleep** — Reed Mathis (191s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-6-relax-and-sleep-reed-mathis.m4a`
+- **Fascination** — Gregory Allison (219s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_fascination-gregory-allison.m4a`
+- **Bazaar Ballad** — Patrick Patrikios (155s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_bazaar-ballad-patrick-patrikios.m4a`
+- **Somnia Variation 4 relax and sleep** — Reed Mathis (167s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-4-relax-and-sleep-reed-mathis.m4a`
+- **Somnia Variation 8 relax and sleep** — Reed Mathis (170s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-8-relax-and-sleep-reed-mathis.m4a`
+- **Somnia Variation 9 relax and sleep** — Reed Mathis (143s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-9-relax-and-sleep-reed-mathis.m4a`
+- **Somnia Variation 7 relax and sleep** — Reed Mathis (191s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-7-relax-and-sleep-reed-mathis.m4a`
+- **From Here on In** — Everet Almond (188s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_from-here-on-in-everet-almond.m4a`
+- **Somnia Variation 5 relax and sleep** — Reed Mathis (158s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_somnia-variation-5-relax-and-sleep-reed-mathis.m4a`
+- **Viral Bliss, Im Uncomfortable** — Ryan Stasik (169s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_viral-bliss-im-uncomfortable-ryan-stasik.m4a`
+- **Ghibli Station** — The Mini Vandals (114s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_ghibli-station-the-mini-vandals.m4a`
+- **Floating Lanterns** — The Mini Vandals (116s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_floating-lanterns-the-mini-vandals.m4a`
+- **Country Sky** — Telecasted (131s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_country-sky-telecasted.m4a`
+- **Sample Mind** — Freedom Trail Studio (149s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_sample-mind-freedom-trail-studio.m4a`
+- **Evergreen** — The Soundlings (166s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_evergreen-the-soundlings.m4a`
+- **Veil of mysteries.** — Patrick Patrikios (157s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_veil-of-mysteries-patrick-patrikios.m4a`
+- **Jasmine Whipers** — Patrick Patrikios (164s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_jasmine-whipers-patrick-patrikios.m4a`
+- **Sunlit Souk** — Patrick Patrikios (164s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_sunlit-souk-patrick-patrikios.m4a`
+- **A Stroll Alone** — Everet Almond (182s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_a-stroll-alone-everet-almond.m4a`
+- **Mirage melody** — Patrick Patrikios (173s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_mirage-melody-patrick-patrikios.m4a`
+- **Pueblo Magico** — Quincas Moreira (189s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_pueblo-magico-quincas-moreira.m4a`
+- **Sunrise From a Moonbeam** — Dan "Lebo" Lebowitz, Tone Seeker (166s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_sunrise-from-a-moonbeam-dan-lebo-lebowitz-tone-seeker.m4a`
+- **Slack Lyfe** — Ryan McCaffrey/Go By Ocean (260s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_slack-lyfe-ryan-mccaffrey-go-by-ocean.m4a`
+- **Starlight on the Water** — Chris Haugen (143s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_starlight-on-the-water-chris-haugen.m4a`
+- **It Was The Wine** — Greg Loiacano (229s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_it-was-the-wine-greg-loiacano.m4a`
+- **Highway To The Moon** — David Simon-Baker, Roger Rocha (234s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_highway-to-the-moon-david-simon-baker-roger-rocha.m4a`
+- **La Cumbre Dormida** — Jovenes Viejos (122s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_la-cumbre-dormida-jovenes-viejos.m4a`
+- **Jaguar in the Mist** — Chris Haugen (136s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_jaguar-in-the-mist-chris-haugen.m4a`
+- **Rest Your Head Ease Your Mind** — Nathan Moore (126s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_rest-your-head-ease-your-mind-nathan-moore.m4a`
+- **Swaying Silhouettes** — Nathan Moore (134s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_swaying-silhouettes-nathan-moore.m4a`
+- **You and I** — Telecasted (126s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_you-and-i-telecasted.m4a`
+- **The Color of the Barrel** — Nathan Moore (168s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_the-color-of-the-barrel-nathan-moore.m4a`
+- **Viral Dance** — Ryan Stasik (137s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_viral-dance-ryan-stasik.m4a`
+- **Too Far Down The Line** — David Simon-Baker, Greg Loiacono (254s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_too-far-down-the-line-david-simon-baker-greg-loiacono.m4a`
+- **inner_outer** — Lish Grooves (240s) · CREATOR_MUSIC_LICENSE_TYPE_YOUTUBE · `E:\videomaker\soninho\banco_musicas\prontas\yt_inner-outer-lish-grooves.m4a`

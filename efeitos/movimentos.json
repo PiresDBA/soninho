@@ -1,0 +1,152 @@
+[
+ {
+  "nome": "estrela_cadente",
+  "movimento": "cair",
+  "arquivo": "estrela_cadente.png"
+ },
+ {
+  "nome": "estrelinhas_piscando",
+  "movimento": "piscar",
+  "arquivo": "estrelinhas_piscando.png"
+ },
+ {
+  "nome": "galho_caindo",
+  "movimento": "cair",
+  "arquivo": "galho_caindo.png"
+ },
+ {
+  "nome": "mosquinha_voando",
+  "movimento": "deriva",
+  "arquivo": "mosquinha_voando.png"
+ },
+ {
+  "nome": "borboletas",
+  "movimento": "deriva",
+  "arquivo": "borboletas.png"
+ },
+ {
+  "nome": "folhas_redemoinho",
+  "movimento": "giro",
+  "arquivo": "folhas_redemoinho.png"
+ },
+ {
+  "nome": "gotas_espelho",
+  "movimento": "cair",
+  "arquivo": "gotas_espelho.png"
+ },
+ {
+  "nome": "nuvens_passando",
+  "movimento": "deriva",
+  "arquivo": "nuvens_passando.png"
+ },
+ {
+  "nome": "lua_crescente",
+  "movimento": "deriva",
+  "arquivo": "lua_crescente.png"
+ },
+ {
+  "nome": "brilho_suave",
+  "movimento": "piscar",
+  "arquivo": "brilho_suave.png"
+ },
+ {
+  "nome": "coracoes_subindo",
+  "movimento": "subir",
+  "arquivo": "coracoes_subindo.png"
+ },
+ {
+  "nome": "bolhas_subindo",
+  "movimento": "subir",
+  "arquivo": "bolhas_subindo.png"
+ },
+ {
+  "nome": "confete_colorido",
+  "movimento": "cair",
+  "arquivo": "confete_colorido.png"
+ },
+ {
+  "nome": "flocos_de_neve",
+  "movimento": "cair",
+  "arquivo": "flocos_de_neve.png"
+ },
+ {
+  "nome": "petalas",
+  "movimento": "cair",
+  "arquivo": "petalas.png"
+ },
+ {
+  "nome": "sementes_vento",
+  "movimento": "deriva",
+  "arquivo": "sementes_vento.png"
+ },
+ {
+  "nome": "espuma_subindo",
+  "movimento": "subir",
+  "arquivo": "espuma_subindo.png"
+ },
+ {
+  "nome": "onda_luminosa",
+  "movimento": "deriva",
+  "arquivo": "onda_luminosa.png"
+ },
+ {
+  "nome": "tracos_de_luz",
+  "movimento": "deriva",
+  "arquivo": "tracos_de_luz.png"
+ },
+ {
+  "nome": "po_de_estrelas",
+  "movimento": "subir",
+  "arquivo": "po_de_estrelas.png"
+ },
+ {
+  "nome": "fagulhas",
+  "movimento": "subir",
+  "arquivo": "fagulhas.png"
+ },
+ {
+  "nome": "arco_iris",
+  "movimento": "piscar",
+  "arquivo": "arco_iris.png"
+ },
+ {
+  "nome": "folha_giro",
+  "movimento": "giro",
+  "arquivo": "folha_giro.png"
+ },
+ {
+  "nome": "pluminhas",
+  "movimento": "deriva",
+  "arquivo": "pluminhas.png"
+ },
+ {
+  "nome": "pingos_finos",
+  "movimento": "cair",
+  "arquivo": "pingos_finos.png"
+ },
+ {
+  "nome": "lagrimas_luz",
+  "movimento": "cair",
+  "arquivo": "lagrimas_luz.png"
+ },
+ {
+  "nome": "borboletas_luz",
+  "movimento": "deriva",
+  "arquivo": "borboletas_luz.png"
+ },
+ {
+  "nome": "zeco_subindo",
+  "movimento": "subir",
+  "arquivo": "zeco_subindo.png"
+ },
+ {
+  "nome": "estrela_giro",
+  "movimento": "giro",
+  "arquivo": "estrela_giro.png"
+ },
+ {
+  "nome": "brisa_suave",
+  "movimento": "deriva",
+  "arquivo": "brisa_suave.png"
+ }
+]
